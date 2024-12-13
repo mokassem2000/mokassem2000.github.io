@@ -1,0 +1,1 @@
+import{a}from"./chunk-B3B4GWYT.js";import"./chunk-T7D2TE32.js";import"./chunk-UBXPMLT7.js";import"./chunk-FK6H3RFT.js";import"./chunk-5DR5RT5H.js";import"./chunk-YKBN3USR.js";import"./chunk-GAL4ENT6.js";export{a as MiningFacilitiesComponent};
